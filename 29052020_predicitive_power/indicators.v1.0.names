@@ -1,0 +1,34 @@
+[{
+    "indicator": "rsi",
+    "params": {"period": 5}
+}, {
+    "indicator": "rsi",
+    "params": {"period": 2}
+},{
+    "indicator": "rsi",
+    "params": {"period": 3}
+},{
+    "indicator": "rsi",
+    "params": {"period": 7}
+},{
+    "indicator": "rsi",
+    "params": {"period": 14}
+},{
+    "indicator": "roc",
+    "params": {"period": 5}
+},{
+    "indicator": "roc",
+    "params": {"period": 2}
+},{
+    "indicator": "roc",
+    "params": {"period": 3}
+},{
+    "indicator": "roc",
+    "params": {"period": 7}
+},{
+    "indicator": "roc",
+    "params": {"period": 14}
+},{
+    "indicator": "roc",
+    "params": {"period": 1}
+}]
